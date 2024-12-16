@@ -1,0 +1,10 @@
+{
+    "Ator": ["Steven Seagal", "Jean Claude Van Damme", "Will Smith", "Scarlett Johansson", "Robert Downey Jr", "Angelina Jolie", "Johnny Depp", "Leonardo DiCaprio", "Keanu Reeves", "Megan Fox", "Meryl Streep", "Ben Affleck", "Jennifer Lopez", "Jennifer Garner"],
+    "Político": ["Donald Trump", "Barack Obama", "Angela Merkel", "Boris Johnson", "Justin Trudeau", "Vladimir Putin", "Emmanuel Macron", "Kamala Harris", "Nicolas Maduro", "Jair Bolsonaro"],
+    "Artista Musical": ["Taylor Swift", "Beyonce", "Kanye West", "Drake", "Britney Spears", "Ed Sheeran", "Lady Gaga", "Ariana Grande", "Elton John", "Rihanna", "Celine Dion", "Adele"],
+    "Atleta": ["Tom Brady", "Cristiano Ronaldo", "Serena Williams", "LeBron James", "Roger Federer", "Lionel Messi", "Usain Bolt", "Simone Biles", "Tiger Woods", "Michael Phelps"],
+    "Cientista": ["Neil deGrasse Tyson", "Enrico Fermi", "Stephen Hawking", "Carl Sagan", "Albert Einstein", "Isaac Newton"],
+    "Personalidade Religiosa": ["Pope Francis", "Dalai Lama", "Desmond Tutu", "Billy Graham", "Joseph Ratzinger", "Joel Osteen", "Mother Teresa", "Martin Luther King Jr"],
+    "Empresário": ["Elon Musk", "Jeff Bezos", "Bill Gates", "Warren Buffett", "Mark Zuckerberg", "Larry Page", "Sergey Brin", "Jack Ma", "Richard Branson", "Oprah Winfrey"],
+    "Influenciador": ["Kim Kardashian", "Kylie Jenner", "Logan Paul", "PewDiePie", "Addison Rae", "James Charles", "Kendall Jenner"]
+}
